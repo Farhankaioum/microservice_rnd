@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using PlatformServcice.Data;
+using PlatformServcice.SyncDataServices.Http;
 using System;
 
 namespace PlatformServcice
@@ -21,7 +22,9 @@ namespace PlatformServcice
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMem"));
+
             services.AddScoped<IPlatformRepo, PlatformRepo>();
+            services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>();
 
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
