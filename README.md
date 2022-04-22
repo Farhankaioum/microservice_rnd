@@ -1,6 +1,6 @@
-# microservice
+# Microservice
 
-2 services
+2 simple services
  * Platform Service
  * Command Service
 
