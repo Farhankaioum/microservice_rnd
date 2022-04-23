@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "CRAsUXqRdEnDz77mgfQAzEomTz5m0NpkvV1hLp1h60YWvl0T5YT6FGWct/IYkgoabay48GvoW+nRufH/GCHu6g==",
+  "dgSpecHash": "Ompo1bmC/CjljbzhsNRRw79PFfK4E0I5vxjyihgFr3fk56e/4DMZiO6KNBcZ0btmCxWXGCCSiYRRKwYeNmb/Qg==",
   "success": true,
   "projectFilePath": "D:\\Extras\\microservice\\les\\CommandsService\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\google.protobuf\\3.20.1\\google.protobuf.3.20.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\grpc.net.client\\2.45.0\\grpc.net.client.2.45.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\grpc.net.common\\2.45.0\\grpc.net.common.2.45.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.8\\microsoft.entityframeworkcore.5.0.8.nupkg.sha512",

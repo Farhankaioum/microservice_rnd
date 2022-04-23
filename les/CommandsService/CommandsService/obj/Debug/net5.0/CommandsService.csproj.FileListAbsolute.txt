@@ -1,5 +1,6 @@
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\appsettings.Development.json
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\appsettings.json
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\appsettings.Production.json
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\CommandsService.exe
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\CommandsService.deps.json
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\CommandsService.runtimeconfig.json
@@ -9,6 +10,13 @@ D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\ref\
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\CommandsService.pdb
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\AutoMapper.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Humanizer.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -20,12 +28,12 @@ D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Micr
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.csproj.AssemblyReference.cache
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.AssemblyInfoInputs.cache
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.AssemblyInfo.cs
@@ -40,5 +48,3 @@ D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\Comm
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 D:\Extras\microservice\les\CommandsService\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
-D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
-D:\Extras\microservice\les\CommandsService\CommandsService\bin\Debug\net5.0\appsettings.Production.json
